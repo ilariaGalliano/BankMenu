@@ -1,0 +1,14 @@
+C:\Users\ilaria.galliano\source\repos\BankMenu\BankMenu\obj\Debug\BankMenu.csproj.AssemblyReference.cache
+C:\Users\ilaria.galliano\source\repos\BankMenu\BankMenu\obj\Debug\BankMenu.csproj.CoreCompileInputs.cache
+C:\Users\ilaria.galliano\source\repos\BankMenu\BankMenu\bin\Debug\BankMenu.exe.config
+C:\Users\ilaria.galliano\source\repos\BankMenu\BankMenu\bin\Debug\BankMenu.exe
+C:\Users\ilaria.galliano\source\repos\BankMenu\BankMenu\bin\Debug\BankMenu.pdb
+C:\Users\ilaria.galliano\source\repos\BankMenu\BankMenu\obj\Debug\BankMenu.exe
+C:\Users\ilaria.galliano\source\repos\BankMenu\BankMenu\obj\Debug\BankMenu.pdb
+C:\Users\ilaria.galliano\Desktop\BankMenu\BankMenu\obj\Debug\BankMenu.csproj.AssemblyReference.cache
+C:\Users\ilaria.galliano\Desktop\BankMenu\BankMenu\obj\Debug\BankMenu.csproj.CoreCompileInputs.cache
+C:\Users\ilaria.galliano\Desktop\BankMenu\BankMenu\obj\Debug\BankMenu.exe
+C:\Users\ilaria.galliano\Desktop\BankMenu\BankMenu\obj\Debug\BankMenu.pdb
+C:\Users\ilaria.galliano\Desktop\BankMenu\BankMenu\bin\Debug\BankMenu.exe.config
+C:\Users\ilaria.galliano\Desktop\BankMenu\BankMenu\bin\Debug\BankMenu.exe
+C:\Users\ilaria.galliano\Desktop\BankMenu\BankMenu\bin\Debug\BankMenu.pdb
